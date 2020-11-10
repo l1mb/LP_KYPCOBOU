@@ -1,0 +1,17 @@
+﻿  Error.cpp
+  FST.cpp
+  GRB.cpp
+  In.cpp
+  IT.cpp
+  Log.cpp
+  LT.cpp
+  Main.cpp
+X:\programming\LP\LP_LAB16\LP_LAB16\LP_LAB16\Main.cpp(51,54): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+X:\programming\LP\LP_LAB16\LP_LAB16\LP_LAB16\Main.cpp(52,52): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  MFST.cpp
+  Parm.cpp
+  pch.cpp
+  PolishNotation.cpp
+X:\programming\LP\LP_LAB16\LP_LAB16\LP_LAB16\PolishNotation.cpp(47,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  LP_LAB16.vcxproj -> X:\programming\LP\LP_LAB16\LP_LAB16\x64\Debug\LP_LAB16.exe
